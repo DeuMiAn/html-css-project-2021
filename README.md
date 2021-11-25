@@ -1,3 +1,3 @@
 # KoKoa Clone 2021 Update
 
-CSS got so mush better!
+HTML & CSS are so mush fun!
